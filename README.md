@@ -113,6 +113,8 @@ between the pairs of variables.The (i,j)th element is the covariance
   <li>Recasting data along Principal Components axes</li>
 </ol>
 
+<img src='https://image.slidesharecdn.com/principalcomponentanalysis-130916163816-phpapp01/95/principal-component-analysis-18-638.jpg?cb=1379350085'>
+
 # Feature engineering
 
 Feature engineering is a process to convert the data into a form better
