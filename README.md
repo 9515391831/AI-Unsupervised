@@ -44,7 +44,12 @@ There are two types of hierarchical clustering. They are:
   <li>Divisive hierarchical clustering</li>
 </ul>
 
-<h3><li>Agglomerative hierarchical clustering</li></h3>
+<h3>Agglomerative hierarchical clustering</h3>
 
 Start with the points as individual clusters and at each step, merge the closest
 pair of clusters.
+
+<h3>Divisive hierarchical clustering</h3>
+
+Start with one i.e.; group all data objects into a single cluster, at each step,
+split a cluster until only single cluster of individual points remains.
