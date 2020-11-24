@@ -30,6 +30,8 @@ group be similar to one another and different from the objects in other groups.
 k- Means defines a prototype in terms of a centroid, which is usually the mean
 of a group of points and is applied to objects in a continuous n-dimensional data.
 
+<img src='https://static.javatpoint.com/tutorial/machine-learning/images/k-means-clustering-algorithm-in-machine-learning.png'>
+
 # Hierarchical Clustering
 
 In this type of clustering, the set of clusters are nested clusters that are
