@@ -92,3 +92,16 @@ between the pairs of variables.The (i,j)th element is the covariance
   between i-th and j-th variable.</li>
   
 </ul>
+
+<h2>Steps in PCA</h2>
+
+1.Normalize the data
+
+2.Calculate the covariance matrix
+
+3.Calculate the eigenvalues and eigrnvectors
+
+4.Choosing components and forming a
+feature vector
+
+5.Recasting data along Principal Components’ axes
