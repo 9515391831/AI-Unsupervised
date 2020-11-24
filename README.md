@@ -107,5 +107,17 @@ between the pairs of variables.The (i,j)th element is the covariance
 
 Feature engineering is a process to convert the data into a form better
 understandable to machine learning algorithms.
+
 In the sense, the outcome of Machine learning process is highly dependent
 on quality of input data.
+
+<h2>Different ways of Feature Engineering</h2>
+
+<ul>
+  <li>Indicator variable from thresholds</li>
+  <li>Indicator variable from multiple features</li>
+  <li>Sum of two features</li>
+  <li>Date and time features</li>
+  <li>Dealing with Geo locations</li>
+  <li>Applying math formulas</li>
+</ul>
