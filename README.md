@@ -21,6 +21,10 @@ used for summarization of data.
 
 <img src='https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/introduction-to-clustering.png'>
 
+<h3>Types</h3>
+
+<img src='https://miro.medium.com/max/638/1*h1Y5k0ZSXZQmks-WjKubtQ.jpeg'>
+
 <h3>Cluster analysis</h3>
 
 The process of grouping data basing on the information found is known as
