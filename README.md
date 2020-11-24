@@ -95,12 +95,10 @@ between the pairs of variables.The (i,j)th element is the covariance
 
 <h2>Steps in PCA</h2>
 
-1.Normalize the data
-2.Calculate the covariance matrix
-
-3.Calculate the eigenvalues and eigrnvectors
-
-4.Choosing components and forming a
-feature vector
-
-5.Recasting data along Principal Components’ axes
+<ol>
+  <li>Normalize the data</li>
+  <li>Calculate the covariance matrix</li>
+  <li>Calculate the eigenvalues and eigenvectors</li>
+  <li>Choosing components and forming a feature vector</li>
+  <li>Recasting data along Principal Components axes</li>
+</ol>
