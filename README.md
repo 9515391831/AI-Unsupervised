@@ -25,7 +25,21 @@ The process of grouping data basing on the information found is known as
 cluster analysis. The main goal of cluster analysis is that the objects within a
 group be similar to one another and different from the objects in other groups.
 
-# K-Means
+# K-Means Clustering
 
 k- Means defines a prototype in terms of a centroid, which is usually the mean
 of a group of points and is applied to objects in a continuous n-dimensional data.
+
+# Hierarchical Clustering
+
+In this type of clustering, the set of clusters are nested clusters that are
+organized in the form of a tree known as dendrogram. Each node in the tree
+is the union of its children and root of the tree is the cluster containing all the
+objects.
+
+There are two types of hierarchical clustering. They are:
+
+<ul>
+  <li>Agglomerative hierarchical clustering</li>
+  <li>Divisive hierarchical clustering</li>
+</ul>
