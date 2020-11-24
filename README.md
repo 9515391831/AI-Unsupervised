@@ -25,6 +25,8 @@ used for summarization of data.
 
 <img src='https://miro.medium.com/max/638/1*h1Y5k0ZSXZQmks-WjKubtQ.jpeg'>
 
+<img src='https://www.researchgate.net/publication/264886652/figure/fig1/AS:645349354000406@1530874684850/Types-of-Clustering-Techniques.png'>
+
 <h3>Cluster analysis</h3>
 
 The process of grouping data basing on the information found is known as
