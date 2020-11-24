@@ -19,7 +19,7 @@ In a supervised learning model, the algorithm learns on a labeled dataset, provi
 Grouping of similar data items together is known as clustering. This is mainly
 used for summarization of data.
 
-<h2>Cluster analysis</h2>
+<h2><li>Cluster analysis</li></h2>
 
 The process of grouping data basing on the information found is known as
 cluster analysis. The main goal of cluster analysis is that the objects within a
