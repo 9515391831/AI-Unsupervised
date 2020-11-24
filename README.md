@@ -72,3 +72,23 @@ components (or simply, the PCs) and are orthogonal, ordered such that the
 retention of variation present in the original variables decreases as we move
 down in the order. So, in this way, the 1st principal component retains
 maximum variation that was present in the original components.
+
+<ul>
+  
+  <li><b>Dimensionality:</b> It is the number of random variables in a dataset
+or simply the number of features, or rather more simply, the number of
+columns present in your dataset.</li>
+  <li><b>Correlation:</b> It shows how strongly two variables are related to each
+other. The value of the same ranges for -1 to +1. Positive indicates that
+when one variable increases, the other increases as well, while negative
+  indicates the other decreases on increasing the former.</li>
+  <li><b>Eigenvectors:</b> It is an eigenvector of a square matrix A, if Av is a
+scalar multiple of v. Or simply.
+Av = ƛv
+
+Here, v is the eigenvector and ƛ is the eigenvalue associated with it.</li>
+  <li><b>Covariance Matrix:</b> This matrix consists of the covariances
+between the pairs of variables.The (i,j)th element is the covariance
+  between i-th and j-th variable.</li>
+  
+</ul>
