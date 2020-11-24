@@ -19,6 +19,8 @@ In a supervised learning model, the algorithm learns on a labeled dataset, provi
 Grouping of similar data items together is known as clustering. This is mainly
 used for summarization of data.
 
+<img src='https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/introduction-to-clustering.png'>
+
 <h3>Cluster analysis</h3>
 
 The process of grouping data basing on the information found is known as
