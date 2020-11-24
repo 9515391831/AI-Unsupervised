@@ -111,7 +111,7 @@ understandable to machine learning algorithms.
 In the sense, the outcome of Machine learning process is highly dependent
 on quality of input data.
 
-<h2>Different ways of Feature Engineering</h2>
+<h3>Different ways of Feature Engineering</h3>
 
 <ul>
   <li>Indicator variable from thresholds</li>
