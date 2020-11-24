@@ -24,3 +24,8 @@ used for summarization of data.
 The process of grouping data basing on the information found is known as
 cluster analysis. The main goal of cluster analysis is that the objects within a
 group be similar to one another and different from the objects in other groups.
+
+# K-Means
+
+k- Means defines a prototype in terms of a centroid, which is usually the mean
+of a group of points and is applied to objects in a continuous n-dimensional data.
