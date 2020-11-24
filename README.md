@@ -102,3 +102,10 @@ between the pairs of variables.The (i,j)th element is the covariance
   <li>Choosing components and forming a feature vector</li>
   <li>Recasting data along Principal Components axes</li>
 </ol>
+
+# Feature engineering
+
+Feature engineering is a process to convert the data into a form better
+understandable to machine learning algorithms.
+In the sense, the outcome of Machine learning process is highly dependent
+on quality of input data.
