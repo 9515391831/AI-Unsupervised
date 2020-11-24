@@ -13,3 +13,8 @@ In a supervised learning model, the algorithm learns on a labeled dataset, provi
 <img src='https://static.javatpoint.com/tutorial/machine-learning/images/difference-between-supervised-and-unsupervised-learning.jpg'>
 
 <img src='https://www.researchgate.net/profile/Zhenyu_Wen/publication/336642133/figure/fig3/AS:815304842170368@1571395230317/Examples-of-Supervised-Learning-Linear-Regression-and-Unsupervised-Learning.png'>
+
+# Clustering
+
+Grouping of similar data items together is known as clustering. This is mainly
+used for summarization of data.
