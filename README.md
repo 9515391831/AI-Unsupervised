@@ -96,7 +96,6 @@ between the pairs of variables.The (i,j)th element is the covariance
 <h2>Steps in PCA</h2>
 
 1.Normalize the data
-
 2.Calculate the covariance matrix
 
 3.Calculate the eigenvalues and eigrnvectors
